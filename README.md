@@ -14,7 +14,7 @@ I am passionate about software engineering and eager to contribute to innovative
 📚 **Projects & Experience**  
 - **COGS118A Project**: Implemented machine learning classifiers on the iris, zoo, and car evaluation datasets.
 - **Huffman Coding Project**: Developed a C++ project for compression and decompression using Huffman coding.
-- **Freelance Projects**: Worked on various freelance projects involving data science, C#, Java, and HTML.
+- **Freelance Projects**: Worked on various freelance projects involving C#, Java, and HTML.
 
 💼 **Professional Goals**  
 I aspire to work as a software engineer, leveraging my skills to create impactful software solutions. I am particularly interested in roles that challenge me to grow and learn continuously.
