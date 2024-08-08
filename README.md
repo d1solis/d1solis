@@ -21,4 +21,3 @@ I aspire to work as a software engineer, leveraging my skills to create impactfu
 
 📫 **Get in Touch**  
 - LinkedIn: https://www.linkedin.com/in/dalila-solis-993b85319/
-- Email: dalilaeileensolis@gmail.com
