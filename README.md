@@ -7,7 +7,7 @@ I recently graduated from the University of California, San Diego (UCSD) with a 
 I am passionate about software engineering and eager to contribute to innovative projects. My areas of interest include data science, machine learning, and front-end development.
 
 🔧 **Skills & Technologies**  
-- **Programming Languages**: Java, C++, C#, C, Python
+- **Programming Languages**: Java, C++, C#, C, Python,...
 - **Machine Learning**: Experience with classification algorithms and datasets
 - **Other**: Data analysis, problem-solving, project management
 
