@@ -21,4 +21,4 @@ I am passionate about software engineering and eager to contribute to innovative
 I aspire to work as a software engineer, leveraging my skills to create impactful software solutions. I am particularly interested in roles that challenge me to grow and learn continuously.
 
 📫 **Get in Touch**  
-- LinkedIn: https://www.linkedin.com/in/dalila-solis-993b85319/
+- LinkedIn: https://www.linkedin.com/in/dalilasolis/
